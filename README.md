@@ -11,6 +11,8 @@ This bundle integrates Geode with Debezium for ingesting initial data and CDC re
 
 ## Installing Bundle
 
+✏️  *Please see [Installing Bundles](https://github.com/padogrid/padogrid/wiki/Installing-Bundles) for instructions on how to install bundles and their required software.*
+
 ```bash
 install_bundle -download bundle-geode-1-docker-debezium_kafka
 ```
